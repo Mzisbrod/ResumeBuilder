@@ -18,20 +18,20 @@ These agents work together to create a resume that leaves a good impression and 
 
 ## 🌟 Features
 
-- **Personalized Email Content**: Deliver custom-tailored messages to each target company.
-- **Data-Driven Insights**: Utilize recent events and information about target companies to create compelling emails.
-- **Quality Assurance**: Ensure that each email is well-written, visually appealing, and error-free.
-- **Efficient Automation**: Streamline the marketing process with automated agents.
-- **Enhanced Conversion Rates**: Increase the likelihood of converting leads into customers with personalized marketing.
+- **Customized Resume Creation**: Tailors resumes specifically to the user's career goals, skills, and the targeted indusry/company.
+- **Professional Content Development**: Crafts high-quality, engaging content that effectively showcases the user's qualifications and experiences.
+- **Interactive Feedback & Refinement**: Provides feedback for improvement, ensuring that the resume is polished, error-free, and maintains a high standard of professionalism.
+- **Advanced Layout and Design**: Incorporates sophisticated design elements to enhance the visual appeal of the resume, making it stand out to employers.
+- **Indusry and Role Alignment**: Ensures the resume content is aligned with industry standards and job-specific requirements, increasing the chances of success in job applications.
 
 ## 🛠️ How It Works
 
-1. **Target Audience Selection**: Define a list of target companies and their respective products or services.
-2. **Automated Research**: The Search Agent gathers recent events and information about each target company.
-3. **Email Content Creation**: The Writer Agent creates personalized B2B email content based on the gathered data.
-4. **Content Review**: The Critique Agent reviews and refines the email content to ensure effectiveness.
-5. **Email Design**: The Designer Agent enhances the email's layout and visual appeal.
-6. **Email Distribution**: The Sender Agent manages the distribution of personalized emails to target companies.
+1. **User Input and Goal Setting**: The user begins by inputting their personal information,   career goals, and specific job or industry targets. This step may include uploading an existing resume or providing details about their skills, experiences, and education..
+2. **Information Gathering**: The Search Agent activates, collecting relevant data about the desired industry or company. This step involves researching current trends, specific job requirements, and company culture to tailor the resume accordingly.
+3. **Drafting the Resume**: The Writer Agent takes over, utilizing the information gathered to craft a professional and engaging resume. This step focuses on highlighting the user's strengths, experiences, and qualifications in a manner that aligns with their job aspirations.
+4. **Feedback and Refinement**: The Critique Agent reviews the drafted resume, providing feedback and suggestions for improvement. This step ensures the content is polished, error-free, and effectively communicates the user's value proposition.
+5. **Design Enhancement**: The Designer Agent enhances the resume's layout and visual appeal. This step involves selecting a suitable template, organizing information for readability, and applying design elements that make the resume stand out.
+6. **Final Review and Export**: The user reviews the final version of the resume, makes any last-minute adjustments, and then exports the document. The resume is now ready to be submitted for job applications, ensuring it is tailored, professional, and visually appealing.
 
 ## 🚀 Getting Started
 
@@ -45,7 +45,7 @@ These agents work together to create a resume that leaves a good impression and 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/rotemweiss57/gpt-marketer.git
+   git clone https://github.com/mzisbrod/ResumeBuilder.git
    ```
 2. Export your API Key
    ```sh
@@ -60,11 +60,11 @@ These agents work together to create a resume that leaves a good impression and 
    ```sh
    # Add your target companies and product details to the vector database.
    ```
-5. Run the Marketer
+5. Run the ResumeBuilder
    ```sh
-   python marketer.py
+   python resumeBuilder.py
    ```
-6. Watch Marketer in Action
+6. Watch ResumeBuilder in Action!
 
 ## 🤝 Contributing
 
@@ -72,7 +72,7 @@ Interested in contributing to the Marketer project? We welcome contributions fro
 
 ## 🛡️ Disclaimer
 
-Marketer is an experimental project and is provided "as-is" without any warranty. It is intended for marketing purposes and should be used responsibly and in compliance with applicable laws and regulations.
+ResumeBuilder is an experimental project and is provided "as-is" without any warranty. It is intended for personal purposes and should be used responsibly and in compliance with applicable laws and regulations.
 
 ## 📩 Contact Us
 
@@ -80,4 +80,4 @@ For support, inquiries, or collaboration opportunities, please reach out to us:
 
 - [Email](mailto:your-email@example.com)
 
-Join us in redefining B2B email marketing with the power of AI-driven personalization through Marketer!
+Join us in redefining resume building with the power of AI-driven personalization through ResumeBuilder!
