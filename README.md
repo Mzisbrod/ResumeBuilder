@@ -14,7 +14,7 @@ Resume Builder consists of the following specialized agents, each with a specifi
 
 These agents work together to create a resume that leaves a good impression and adheres to company standards.
 
-<img width="200" src="https://github.com/Mzisbrod/ResumeBuilder/assets/63931950/e1987324-5fec-4591-b07f-80b143a16324">
+<p align="center"><img width="200" src="https://github.com/Mzisbrod/ResumeBuilder/assets/63931950/e1987324-5fec-4591-b07f-80b143a16324"></p>
 
 ## 🌟 Features
 
